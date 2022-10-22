@@ -1,5 +1,5 @@
 ### Hello Everyone!👋
-My name is Arthur Nguyen and I'm currently in 11th grade. My best languages are Python and Java. 
+My name is Arthur Nguyen and I'm currently in 11th grade. I'm experienced in Java and Python. One of my strongsuits are camera systems. I've created multiple types from OpenCV, custom Tensorflow models, and custom Tensorflow Recgonition models. 
 
 
 ### About Me
