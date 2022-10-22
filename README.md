@@ -1,6 +1,5 @@
 ### Hello Everyone!👋
-- 🐱‍🏍Name: Arthur Nguyen
-- 💻Languages: Java and Python
+My name is Arthur Nguyen and I'm currently in 11th grade. My best languages are Python and Java. 
 
 
 ### About Me
