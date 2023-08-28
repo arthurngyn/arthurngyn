@@ -1,10 +1,10 @@
 ### Hello Everyone!👋
-My name is Arthur Nguyen and I'm currently in 11th grade. I'm experienced in Java and Python. One of my strongsuits are camera systems. I've created multiple types from OpenCV, custom Tensorflow models, and custom Tensorflow Recgonition models. 
+My name is Arthur Nguyen and I'm currently in 12th grade. I'm experienced in Java and Python. One of my strongsuits are camera systems. I've created multiple types from OpenCV, custom Tensorflow models, and custom Tensorflow Recgonition models. 
 
 
 ### About Me
 - 🔭 I’m currently working on Game Development, PID Controllers, and Sensor Odometry
-- 👨‍💻 Currently Programming Lead for FTC ARTEMIS 18715 for 2 years
+- 👨‍💻 Currently Programming Lead for FTC ARTEMIS 18715 for 3 years
 - 🤖 I love Building and Coding Robots
 
 
