@@ -3,9 +3,8 @@ My name is Arthur Nguyen and I'm currently in 12th grade. I'm experienced in Jav
 
 
 ### About Me
-- 🔭 I’m currently working on Game Development, PID Controllers, and Sensor Odometry
-- 👨‍💻 Currently Programming Lead for FTC ARTEMIS 18715 for 3 years
-- 🤖 I love Building and Coding Robots
+- 🔭 I’m currently working on creating a self-driving car 
+
 
 
 ### Stats
