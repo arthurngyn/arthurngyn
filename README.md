@@ -1,5 +1,5 @@
 ### Hello Everyone!👋
-My name is Arthur Nguyen and I'm currently in 12th grade. I'm experienced in Java and Python. One of my strongsuits are camera systems. I've created multiple types from OpenCV, custom Tensorflow models, and custom Tensorflow Recgonition models. 
+My name is Arthur Nguyen and I'm currently a Freshman in college. I'm experienced in Java, Kotlin, and Python. I love to work with computer vision! I've worked with many practices such as Tensorflow Object Detection, Tensorflow Image Recognition, and OpenCV. 
 
 
 ### About Me
